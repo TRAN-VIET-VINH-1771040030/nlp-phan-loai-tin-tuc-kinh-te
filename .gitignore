@@ -12,3 +12,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 ~$*
+
+app/.venv/
+app/venv/
+app/__pycache__/
+*.joblib
+*.pkl
