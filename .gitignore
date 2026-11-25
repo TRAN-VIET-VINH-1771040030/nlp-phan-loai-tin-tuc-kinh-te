@@ -1,0 +1,14 @@
+# Dữ liệu bài báo (không đưa lên GitHub)
+du_lieu_lab2/
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Hệ thống
+.DS_Store
+Thumbs.db
+~$*
